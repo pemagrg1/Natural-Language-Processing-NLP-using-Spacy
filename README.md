@@ -8,3 +8,5 @@ To install Spacy:
 
 To add the English model:
 `python -m spacy download en`
+
+BLOG: https://medium.com/@pemagrg/nlp-for-beninners-using-spacy-6161cf48a229
