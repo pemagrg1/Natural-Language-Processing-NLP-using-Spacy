@@ -5,3 +5,6 @@ Today we’ll be talking about how to get started with NLP using Spacy. But befo
 
 To install Spacy:
 `sudo pip install spacy`
+
+To add the English model:
+`python -m spacy download en`
