@@ -1,2 +1,4 @@
 .idea/
 learning-notebooks/.ipynb_checkpoints
+.DS_Store
+learning-notebooks/.DS_Store
